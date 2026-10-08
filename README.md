@@ -80,7 +80,7 @@ Eles verificam o escape de textos, a exportação CSV e a recuperação dos dado
 
 ## Protótipo Navegável
 
-[página navegável deste projeto(https://giovanni-flores.github.io/taskboard/)
+[página navegável deste projeto](https://giovanni-flores.github.io/taskboard/)
 
 ## Autor
 
