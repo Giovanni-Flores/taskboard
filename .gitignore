@@ -1,0 +1,30 @@
+# Configurações e credenciais locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependências e caches locais
+node_modules/
+.cache/
+coverage/
+
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs, backups e compactados de trabalho
+*.log
+*.bak
+*.tmp
+*.zip
+*.rar
+temp/
+tmp/
+backups/
