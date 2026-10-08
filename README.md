@@ -77,6 +77,11 @@ node --test --test-isolation=none tests/core.test.cjs
 
 Eles verificam o escape de textos, a exportação CSV e a recuperação dos dados locais. Para detalhes da estrutura, consulte [a arquitetura](docs/arquitetura.md).
 
+
+## Protótipo Navegável
+
+[página navegável deste projeto(https://giovanni-flores.github.io/taskboard/)
+
 ## Autor
 
 [Giovanni Flores](https://github.com/Giovanni-Flores) · [Portfólio](https://giovanniflores.com.br/)
