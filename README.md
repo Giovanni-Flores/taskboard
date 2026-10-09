@@ -77,6 +77,10 @@ node --test --test-isolation=none tests/core.test.cjs
 
 Eles verificam o escape de textos, a exportação CSV e a recuperação dos dados locais. Para detalhes da estrutura, consulte [a arquitetura](docs/arquitetura.md).
 
+## Demonstração da Tela Principal
+
+<img width="1613" height="1029" alt="DemonstracaoTaskBoard" src="https://github.com/user-attachments/assets/d8d0cffb-b34a-4234-80fb-23feab5c9ef8" />
+
 
 ## Protótipo Navegável
 
